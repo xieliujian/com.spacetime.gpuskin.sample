@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d3d24d2646abc74fa02c861458527d3, type: 3}
+  m_Name: info
+  m_EditorClassIdentifier: 
+  mesh: {fileID: 4300000, guid: 8e89adf1ae7af104e8521457bc22f433, type: 2}
+  infoList:
+  - name: Attack01
+    startPixelIndex: 0
+    totalPixelCount: 1000
+    frameCount: 25
+    frameRate: 30
+    length: 0.8333334
+  - name: Attack02
+    startPixelIndex: 1000
+    totalPixelCount: 1000
+    frameCount: 25
+    frameRate: 30
+    length: 0.8333334
+  - name: Die
+    startPixelIndex: 2000
+    totalPixelCount: 1600
+    frameCount: 40
+    frameRate: 30
+    length: 1.3333334
+  - name: Dizzy
+    startPixelIndex: 3600
+    totalPixelCount: 1600
+    frameCount: 40
+    frameRate: 30
+    length: 1.3333334
+  - name: GetHit
+    startPixelIndex: 5200
+    totalPixelCount: 1000
+    frameCount: 25
+    frameRate: 30
+    length: 0.8333334
+  - name: IdleBattle
+    startPixelIndex: 6200
+    totalPixelCount: 960
+    frameCount: 24
+    frameRate: 30
+    length: 0.8000001
+  - name: IdleNormal
+    startPixelIndex: 7160
+    totalPixelCount: 2000
+    frameCount: 50
+    frameRate: 30
+    length: 1.6666667
+  - name: RunFWD
+    startPixelIndex: 9160
+    totalPixelCount: 800
+    frameCount: 20
+    frameRate: 30
+    length: 0.6666667
+  - name: SenseSomethingRPT
+    startPixelIndex: 9960
+    totalPixelCount: 2800
+    frameCount: 70
+    frameRate: 30
+    length: 2.3333335
+  - name: SenseSomethingST
+    startPixelIndex: 12760
+    totalPixelCount: 2480
+    frameCount: 62
+    frameRate: 30
+    length: 2.0666668
+  - name: Taunt
+    startPixelIndex: 15240
+    totalPixelCount: 800
+    frameCount: 20
+    frameRate: 30
+    length: 0.6666667
+  - name: Victory
+    startPixelIndex: 16040
+    totalPixelCount: 3200
+    frameCount: 80
+    frameRate: 30
+    length: 2.6666667
+  - name: WalkBWD
+    startPixelIndex: 19240
+    totalPixelCount: 1200
+    frameCount: 30
+    frameRate: 30
+    length: 1
+  - name: WalkLeft
+    startPixelIndex: 20440
+    totalPixelCount: 1200
+    frameCount: 30
+    frameRate: 30
+    length: 1
+  - name: WalkRight
+    startPixelIndex: 21640
+    totalPixelCount: 1200
+    frameCount: 30
+    frameRate: 30
+    length: 1
+  - name: WalkFWD
+    startPixelIndex: 22840
+    totalPixelCount: 1200
+    frameCount: 30
+    frameRate: 30
+    length: 1
+  texWidth: 156
+  texHeight: 156
+  texture: {fileID: 2800000, guid: 517cf776c1be8eb4f81c10fd110f060a, type: 2}
+  boneCount: 10
