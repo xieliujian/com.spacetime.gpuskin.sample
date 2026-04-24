@@ -6,7 +6,7 @@ GPU 蒙皮动画 Demo 工程，演示将骨骼/顶点动画烘焙到贴图并在
 
 | 包 | 路径 | 说明 | 文档 |
 |---|---|---|---|
-| `com.spacetime.gpuskin` | `Packages/com.spacetime.gpuskin` | GPU 蒙皮核心包（骨骼/顶点两种方案） | [README](Packages/com.spacetime.gpuskin/README.md) |
+| `com.spacetime.gpuskin` | `Packages/com.spacetime.gpuskin` | GPU 蒙皮核心包（骨骼/顶点两种方案） | [README](https://github.com/xieliujian/com.spacetime.gpuskin/blob/main/README.md) |
 | `com.spacetime.core` | `Packages/com.spacetime.core` | 基础工具库 | — |
 
 ## 方案说明
